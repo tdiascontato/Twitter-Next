@@ -6,6 +6,7 @@ Bem-vindo ao meu clone do Twitter, um projeto construído com Next.js, Prisma, M
 ## Visão Geral
 
 Este projeto é um clone simplificado do Twitter, implementando funcionalidades básicas como criar tweets, seguir usuários e uma linha do tempo personalizada.
+27.11 -  Importância de interfaces, Módulos e Hierarquia.
 
 ## Tecnologias Utilizadas
 
