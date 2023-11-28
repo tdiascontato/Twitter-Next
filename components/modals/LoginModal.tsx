@@ -52,11 +52,12 @@ const LoginModal = () => {
 
     const footerContent = (
         <div className="text-neutal-400 text-center mt-4">
-            <p>Primeira vez aqui?
+            <p className="
+                text-white">Primeira vez aqui?
             <span
                 onClick={onToggle} 
                 className="
-                text-white cursor-pointer 
+                text-white p-4 cursor-pointer 
                 hover:underline">
                 Criar conta!
             </span>
