@@ -9,6 +9,7 @@ Este projeto é um clone simplificado do Twitter, implementando funcionalidades 
 27.11 -  Importância de interfaces, Módulos e Hierarquia.
 28.11 - Prisma não quer subir db.
 02-04.12 - Problemas para conectar db Mongo com Prisma.
+08.12 - Fazendo pausa no Projeto para estudar Phyton.
 
 ## Tecnologias Utilizadas
 
